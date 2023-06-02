@@ -1,6 +1,6 @@
-### Oi, seja bem vindo ao meu GitHub! 👋
+<h1 align="center">Oi, seja bem vindo ao meu GitHub! 👋</h1> 
 
-### - 💬 Olá! Eu sou o Leonardo, apaixonado por programação e tecnologia. Meu objetivo é explorar e aprender novas tecnologias, compartilhando projetos e conhecimentos no GitHub. Estou sempre em busca de desafios e oportunidades para expandir minhas habilidades de desenvolvimento.
+### - 💬 Eu sou o Leonardo, apaixonado por programação e tecnologia. Meu objetivo é explorar e aprender novas tecnologias, compartilhando projetos e conhecimentos no GitHub. Estou sempre em busca de desafios e oportunidades para expandir minhas habilidades de desenvolvimento.
 - 🌱 Estudando na: Trybe
 - 😄 Pronomes: Ele/dele
 
