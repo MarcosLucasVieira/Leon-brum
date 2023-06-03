@@ -3,6 +3,7 @@
 ### - 💬 Eu sou o Leonardo, apaixonado por programação e tecnologia. Meu objetivo é explorar e aprender novas tecnologias, compartilhando projetos e conhecimentos no GitHub. Estou sempre em busca de desafios e oportunidades para expandir minhas habilidades de desenvolvimento.
 - 🌱 Estudando na: Trybe
 - 😄 Pronomes: Ele/dele
+- 📧 Email: leu-profissional@hotmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-brum&show_icons=true&theme=transparent)](https://github.com/Leon-brum/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-brum&layout=compact&theme=transparent)](https://github.com/Leon-brum/github-readme-stats)
