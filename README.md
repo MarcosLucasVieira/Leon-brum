@@ -23,10 +23,6 @@
   - ⚡ Sou apaixonado por video games, cosplay e uma variedade de outros aspectos do mundo geek e tecnológico. \o/
 </details>
 
-<!-- Links -->
-[![Instagram](https://www.instagram.com/leo_morenolm/)
-[![LinkedIn](https://www.linkedin.com/in/leonardo-moreno-b8015a294/)
-
 
 <!-- GithubStats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-brum&show_icons=true&theme=transparent)](https://github.com/Leon-brum/github-readme-stats)
