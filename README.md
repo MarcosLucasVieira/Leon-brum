@@ -8,7 +8,7 @@
 <p>
   Oi, me chamo Leonardo e sou um desenvolvedor BackEnd.
 
-  - 🌱 Formado como desenvolvedor back end na Trybe <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Formado como desenvolvedor back end na Trybe <img align="center" alt="html5" height="23px" src="https://yt3.googleusercontent.com/SLg3vW9jQbja0ea7la5Bx8nVffl5BprQ7xaTqx_weWvcUPqJF-ylPl2BSs8ocY5gdT06GB_a=s900-c-k-c0x00ffffff-no-rj" />
 
   - 🔭 Estou em busca da minha primeira oportunidade profissional na área de tecnologia.
 </p>
