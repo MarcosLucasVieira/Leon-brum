@@ -37,7 +37,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500 alt="Imagem">
+  <img align="center" src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsincovaga.com.br%2Fpixel-art-animation-comfy-room-danwolfe-s-ko-fi-ss-43758037&psig=AOvVaw2FpZNU7vyuezCPc9tbYzaW&ust=1718459380988000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCS0N2e24YDFQAAAAAdAAAAABAE)" width="500 alt="Imagem">
 </p>
 <div aling="right">
 <a href="https://www.instagram.com/leo_morenolm/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
